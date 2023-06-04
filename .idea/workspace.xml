@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88ef2721-d1b0-4dfe-9417-45c8f03378d4" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/homework/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/homework/Quote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/homework/QuoteReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/homework/QuoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/fasttrackit/homework/FirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="88ef2721-d1b0-4dfe-9417-45c8f03378d4" name="Changes" comment="curs14" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685786898265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="curs14">
+      <created>1685907864836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685907864836</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="curs14" />
+    <option name="LAST_COMMIT_MESSAGE" value="curs14" />
   </component>
 </project>
